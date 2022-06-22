@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/charlistonrodrigo/movieflix-backend-tests/blob/add-license-1/LICENCE)
+
 # movieflix-backend-tests
 
 ## Sobre
